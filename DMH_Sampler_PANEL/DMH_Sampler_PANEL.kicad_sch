@@ -1986,7 +1986,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Audio In"
+		(property "Value" "Input"
 			(at 53.34 215.9 0)
 			(effects
 				(font
@@ -2196,7 +2196,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Audio Out"
+		(property "Value" "Output"
 			(at 53.34 228.6 0)
 			(effects
 				(font
